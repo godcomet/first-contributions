@@ -4,6 +4,7 @@
 - [MTM] (https://github.com/MyoThetMaung)
 - [Gmelon] (https://github.com/gmelon)
 - [Daniel Jordan] (https://github.com/dan2811)
+- [godcomet] (https://github.com/godcomet)
 - [Arson James] (https://github.com/ArsonJames)
 - [21yuyu99](https://github.com/21yuyu99)
 - [Park Seongbin](https://github.com/SeongbinPark82)
